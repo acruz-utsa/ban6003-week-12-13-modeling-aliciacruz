@@ -1,0 +1,3 @@
+model,decision_time,MAE,RMSE,R_squared
+Baseline,evening before,1662.978,1983.325,-0.021
+Bike demand model,evening before,586.952,773.488,0.845
